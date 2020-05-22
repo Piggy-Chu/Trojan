@@ -25,3 +25,8 @@ wget --no-check-certificate curl -O https://github.com/Piggy-Chu/Trojan/blob/mas
 
 下看：
 wget -N --no-check-certificate -q -O trojan.sh "https://github.com/Piggy-Chu/Trojan/blob/master/Trojan.sh" && chmod +x trojan.sh && bash trojan.sh
+
+
+真正的下看！
+wget -N --no-check-certificate -q -O trojan_install.sh "https://github.com/Piggy-Chu/Trojan/blob/master/trojan_install.sh" && chmod +x trojan_install.sh && bash trojan_install.sh
+
