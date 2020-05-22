@@ -20,3 +20,8 @@ curl -O https://github.com/Piggy-Chu/Trojan/blob/master/Trojan.sh && chmod  x tr
 
 wget --no-check-certificate curl -O https://github.com/Piggy-Chu/Trojan/blob/master/Trojan.sh && chmod  x trojan.sh && ./trojan.sh
  && chmod +x Trojan.sh && ./Trojan.sh
+
+
+
+下看：
+wget -N --no-check-certificate -q -O trojan_install.sh "https://github.com/Piggy-Chu/Trojan/blob/master/Trojan.sh" && chmod +x trojan_install.sh && bash trojan_install.sh
